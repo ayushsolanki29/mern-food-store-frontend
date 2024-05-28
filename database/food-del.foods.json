@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6655d3d1e606725a83c3d64f"
+  },
+  "name": "Greek salad",
+  "description": "Food provides essential nutrients for overall health and well-being",
+  "price": 120,
+  "image": "1716900817761food_1.png",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d3e6e606725a83c3d651"
+  },
+  "name": "Veg salad",
+  "description": "Food provides essential nutrients for overall health and well-being",
+  "price": 180,
+  "image": "1716900838232food_2.png",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d3f8e606725a83c3d653"
+  },
+  "name": "Clover Salad",
+  "description": "Food provides essential nutrients for overall health and well-being",
+  "price": 160,
+  "image": "1716900856736food_3.png",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d40de606725a83c3d655"
+  },
+  "name": "Chicken Salad",
+  "description": "Food provides essential nutrients for overall health and well-being",
+  "price": 240,
+  "image": "1716900877367food_4.png",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d425e606725a83c3d657"
+  },
+  "name": "Lasagna Rolls",
+  "description": "Food provides essential nutrients for overall health and well-being",
+  "price": 140,
+  "image": "1716900901687food_5.png",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d4a7178e3f3340252287"
+  },
+  "name": "Peri Peri Rolls",
+  "description": "Food provides essential nutrients for overall health and well-being",
+  "price": 120,
+  "image": "1716901031567food_6.png",
+  "category": "Rolls",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d4bb178e3f3340252289"
+  },
+  "name": "Chicken Rolls",
+  "description": "Food provides essential nutrients for overall health and well-being",
+  "price": 200,
+  "image": "1716901051872food_7.png",
+  "category": "Salad",
+  "__v": 0
+}]

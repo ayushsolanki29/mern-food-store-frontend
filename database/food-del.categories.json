@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6655d31a6196a6e262ee4507"
+  },
+  "category": "Salad",
+  "image": "1716900634763menu_1.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d365e606725a83c3d639"
+  },
+  "category": "Rolls",
+  "image": "1716900709452menu_2.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d36ee606725a83c3d63c"
+  },
+  "category": "Deserts",
+  "image": "1716900718256menu_3.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d37be606725a83c3d63f"
+  },
+  "category": "Sandwich",
+  "image": "1716900731656menu_4.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d385e606725a83c3d642"
+  },
+  "category": "Cake",
+  "image": "1716900741328menu_5.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d397e606725a83c3d645"
+  },
+  "category": "Pure Veg",
+  "image": "1716900759104menu_6.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d3a0e606725a83c3d648"
+  },
+  "category": "Pasta",
+  "image": "1716900768192menu_7.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655d3aae606725a83c3d64b"
+  },
+  "category": "Noodles",
+  "image": "1716900778264menu_8.png",
+  "__v": 0
+}]
