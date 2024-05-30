@@ -1,8 +1,16 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Food Order Store : Frontend
+## What is use case of this project?
+- Amazing UI, and Fatser Response.
+- good user interaction.
+- you have optin to choose you food which category.
+## Which Language used in this project ?
+- MERN Stack
+    - Mongo DB : for database
+    - Express : for server side and manage APIs
+    - React JS : for user interface
+    - Node JS : for server side
+## setup
+- how can i install on my Machine ?
+- just clone this repo. then write a command `npm i` then you can get all despondency at your local.
+- setup env
+## sample
