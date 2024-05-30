@@ -15,4 +15,12 @@
 - setup env
 ## sample
 ![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/Screenshot/Screenshot%20(466).png)
+![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/Screenshot/Screenshot%20(467).png)
+![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/Screenshot/Screenshot%20(468).png)
+![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/Screenshot/Screenshot%20(469).png)
+![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/Screenshot/Screenshot%20(470).png)
+![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/Screenshot/Screenshot%20(471).png)
+![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/Screenshot/Screenshot%20(472).png)
+![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/Screenshot/Screenshot%20(478).png)
+![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/Screenshot/Screenshot%20(479).png)
 
