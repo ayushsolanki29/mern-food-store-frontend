@@ -14,3 +14,4 @@
 - just clone this repo. then write a command `npm i` then you can get all despondency at your local.
 - setup env
 ## sample
+![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/Screenshot/TOURNAMENT.jpg)
