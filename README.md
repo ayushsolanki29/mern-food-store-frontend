@@ -25,4 +25,3 @@
 ![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/screenshot/7.png)
 ![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/screenshot/8.png)
 ![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/screenshot/9.png)
-![img](https://github.com/ayushsolanki29/mern-food-store-frontend/blob/main/screenshot/10.png)
